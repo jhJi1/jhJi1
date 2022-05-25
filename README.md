@@ -11,7 +11,7 @@
   <h2> I'm learning now... </h2>
   
  <a href = "https://github.com/"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=White"/></a>
- <a href = "https://www.w3schools.com/js/default.asp"><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=White"/></a>
+ <a href = "https://www.w3schools.com/js/default.asp"><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=Black"/></a>
 <!--
 **jhJi1/jhJi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
