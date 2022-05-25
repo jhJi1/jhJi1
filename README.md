@@ -14,6 +14,8 @@
  <a href = "https://www.w3schools.com/js/default.asp"><img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/></a>
  <a href = "https://isocpp.org/"><img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=White"/></a>
  <a href = "https://www.iso.org/standard/74528.html"><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>
+ <a href = "https://www.python.org/psf-landing/"><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+
  
 <!--
 **jhJi1/jhJi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
