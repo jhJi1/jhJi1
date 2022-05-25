@@ -15,6 +15,8 @@
  <a href = "https://isocpp.org/"><img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=White"/></a>
  <a href = "https://www.iso.org/standard/74528.html"><img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/></a>
  <a href = "https://www.python.org/psf-landing/"><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+ <a href = "https://visualstudio.microsoft.com/fr/"><img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91.svg?&style=for-the-badge&logo=Visual Studio&logoColor=black"/></a>
+
 
  
 <!--
