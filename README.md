@@ -1,4 +1,4 @@
-### <h1> Hi! nice to meet you. 👋  </h1>
+### <h1> Hi! Nice to meet you! 👋  </h1>
 
 <h2> 세명대학교 스마트IT학부 2017219070 지정현 </h2>
 <h3> GitHub Test </h3>
